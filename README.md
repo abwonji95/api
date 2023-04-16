@@ -4,6 +4,5 @@
 
 `Wallace Abuonji`
 
-django rest framework api
 
 
